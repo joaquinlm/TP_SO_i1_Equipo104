@@ -12,4 +12,7 @@ Siempre y cuando haga un push el resto lo deberia ver
 d-¿De qué forma se comunicaron ustedes?
 Utilizamos Whatsapp para comunicarnos entre nosotros
 
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+A traves de la tabla de projects de Github. 
+
 
