@@ -6,4 +6,10 @@ b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 
 Sí
 
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+Siempre y cuando haga un push el resto lo deberia ver
+
+d-¿De qué forma se comunicaron ustedes?
+Utilizamos Whatsapp para comunicarnos entre nosotros
+
 
